@@ -1,2 +1,2 @@
 # Fullstack_Assignment6
- Product Inventory using Bootstrap
+ Product Inventory using React Bootstrap
